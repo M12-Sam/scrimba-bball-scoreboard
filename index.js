@@ -35,3 +35,10 @@ function guestp3() {
   initguest += 3;
   guestscoreEl.textContent = initguest;
 }
+
+window.homep1 = homep1;
+window.homep2 = homep2;
+window.homep3 = homep3;
+window.guestp1 = guestp1;
+window.guestp2 = guestp2;
+window.guestp3 = guestp3;
